@@ -45,7 +45,7 @@
     "gulp-uglify": "^3.0.2",
     "imagemin-jpeg-recompress": "^7.0.0",
     "imagemin-webp": "^6.0.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "posthtml-beautify": "^0.6.0",
     "posthtml-include": "^1.4.3"
   }
